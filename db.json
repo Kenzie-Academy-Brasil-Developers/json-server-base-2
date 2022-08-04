@@ -6,6 +6,166 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "William@gmail.com",
+      "password": "$2a$10$ja.4g13iTZsOHfhse.8WiebvmGzNTbtaV9qJaNaGxGhK7h8wjAlum",
+      "name": "William Augusto",
+      "age": 32,
+      "id": 2
+    },
+    {
+      "email": "nicole@gmail.com",
+      "password": "$2a$10$NDr9Tl4qs95l8AIgfpnAiuBLQmlQ15JbUS51jd4HdlEVHW.Ig2Tpm",
+      "name": "Nicole Alves",
+      "age": 22,
+      "id": 3
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$xS.K4I90srNkvVlVH2VGUO9Adpbe9skFa576Hxek1pIWko2xk59yi",
+      "name": "Nicole Alves",
+      "age": 22,
+      "id": 4
+    }
+  ],
+  "pets": [
+    {
+      "name": "Simba",
+      "type": "gato",
+      "age": 5,
+      "breed": "Ashera",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Jerry",
+      "type": "roedor",
+      "age": 2,
+      "breed": "hamster chines",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Pipoca",
+      "type": "cachorro",
+      "age": 2,
+      "breed": "salsicha",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "Pipoca",
+      "type": "cachorro",
+      "age": 2,
+      "breed": "salsicha",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "name": "Maley",
+      "type": "cachorro",
+      "age": 13,
+      "breed": "pudol",
+      "userId": 3,
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Cama Viton -tecido suede",
+      "category": "cama",
+      "post": "https://images.tcdn.com.br/img/img_prod/1113036/cama_viton_tecido_suede_1_1_0177d8920ebfc98d55630b1f217f8cdc.jpg",
+      "price": {
+        "debit": 249.9,
+        "credit": {
+          "value": 79.97,
+          "split": 3
+        }
+      }
+    },
+    {
+      "id": 2,
+      "title": "MINI COLAR BANDANA LOVE NATURE DA PETECCO",
+      "category": "acessório",
+      "post": "https://images.tcdn.com.br/img/img_prod/783690/mini_colar_bandana_love_nature_da_petecco_63_1_8240f225cf92b81ab52198a5cde36a2c.jpg",
+      "price": {
+        "debit": 19,
+        "credit": {
+          "value": 1.96,
+          "split": 12
+        }
+      }
+    },
+    {
+      "id": 3,
+      "title": "GUIA PARA PET PRETA DA PETECCO",
+      "category": "acessório",
+      "post": "https://images.tcdn.com.br/img/img_prod/783690/guia_para_pet_preta_da_petecco_61_1_b82a0573eaef3212b2c531b7f4307b46.jpg",
+      "price": {
+        "debit": 53,
+        "credit": {
+          "value": 5.47,
+          "split": 12
+        }
+      }
+    },
+    {
+      "id": 4,
+      "title": "Cama Zee.Bed Skull",
+      "category": "cama",
+      "post": "https://zeedog.vteximg.com.br/arquivos/cama-para-cachorros-zeebed-skull-zeedog-cachorro-pet-main-01.jpg",
+      "price": {
+        "debit": 499,
+        "credit": {
+          "value": 166.33,
+          "split": 3
+        }
+      }
+    },
+    {
+      "id": 5,
+      "title": "TAPETE HIGIÊNICO ECOLÓGICO REUTILIZÁVEL LAVÁVEL DA PETECCO",
+      "category": "higiênicos",
+      "post": "https://images.tcdn.com.br/img/img_prod/783690/tapete_higienico_ecologico_reutilizavel_lavavel_g_da_petecco_9_1_7091c5dc18ecce6f4a65eae289bf9ae4.jpg",
+      "price": {
+        "debit": 89,
+        "credit": {
+          "value": 7.45,
+          "split": 12
+        }
+      }
+    },
+    {
+      "id": 6,
+      "title": "Mordedor Ossinho Petz P - Cores Sortidas",
+      "category": "Brinquedo  ",
+      "post": "hhttps://static.petz.com.br/fotos/1608211837627.jpg",
+      "price": {
+        "debit": 27.49,
+        "credit": {
+          "value": 9.17,
+          "split": 3
+        }
+      }
+    }
+  ],
+  "feedbacks": [
+    {
+      "comment": "Gostei muito da pet shop online, traz uma grande praticidade em levar os produtos do meu pet até mim de maneira muito rapida, site muito bem confiavel!",
+      "rate": 5,
+      "id": 1
+    },
+    {
+      "comment": "Loja muito boa, tem bastante produto de qualidade que posso comprar para meu pet, mas o atendimento é um pouco demorado",
+      "rate": 4.5,
+      "id": 2
+    },
+    {
+      "comment": "site muito bom, recomendo demais",
+      "rate": 4.8,
+      "id": 3
     }
   ]
 }
